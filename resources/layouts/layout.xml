@@ -1,0 +1,8 @@
+<layout id="WatchFace">
+	<label id="AltitudeLabel" x="center" y="40" font="Gfx.FONT_MEDIUM"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" text="altitude" />
+	<label id="TimeLabel" x="center" y="center" font="Gfx.FONT_LARGE"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+	<label id="StepsLabel" x="center" y="150" font="Gfx.FONT_MEDIUM"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" text="steps"/>
+</layout>

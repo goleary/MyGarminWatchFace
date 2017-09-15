@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="16" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="17" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="23" pc="268435521" symbol="onShow"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="27" pc="268435526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="28" pc="268435530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="29" pc="268435542" symbol="onUpdate"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="30" pc="268435554" symbol="onUpdate"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="32" pc="268435566" symbol="onUpdate"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="35" pc="268435587" symbol="setTime"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="37" pc="268435591" symbol="setTime"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="38" pc="268435608" symbol="setTime"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="39" pc="268435682" symbol="setTime"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="40" pc="268435706" symbol="setTime"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="43" pc="268435721" symbol="setAltitude"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="44" pc="268435725" symbol="setAltitude"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="45" pc="268435748" symbol="setAltitude"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="46" pc="268435772" symbol="setAltitude"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="49" pc="268435801" symbol="setSteps"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="50" pc="268435805" symbol="setSteps"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="51" pc="268435828" symbol="setSteps"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="52" pc="268435852" symbol="setSteps"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="59" pc="268435881" symbol="onHide"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="63" pc="268435886" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceView.mc" lineNum="67" pc="268435891" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceApp.mc" lineNum="5" pc="268435896" symbol="initialize"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceApp.mc" lineNum="6" pc="268435900" symbol="initialize"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceApp.mc" lineNum="10" pc="268435919" symbol="onStart"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceApp.mc" lineNum="14" pc="268435924" symbol="onStop"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceApp.mc" lineNum="18" pc="268435929" symbol="getInitialView"/>
+<entry filename="C:\\Users\\golear\\eclipse-workspace\\MyWatchFace\\source\\MyWatchFaceApp.mc" lineNum="19" pc="268435933" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="18" pc="268435971" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268435983" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268436144" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268436169" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268436221" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268436384" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268436409" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268436461" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268436507" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268436668" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268436693" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268436745" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="9" object="true" symbol="MyWatchFaceView"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="17" method="true" symbol="setSteps"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="15" method="true" symbol="setTime"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="16" method="true" symbol="setAltitude"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="10" object="true" symbol="MyWatchFaceApp"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435587" name="dc" stackId="1" startPc="268435526"/>
+<entry endPc="268435720" name="view" stackId="3" startPc="268435591"/>
+<entry endPc="268435720" name="timeString" stackId="2" startPc="268435591"/>
+<entry endPc="268435720" name="clockTime" stackId="1" startPc="268435591"/>
+<entry endPc="268435800" name="altitude" stackId="1" startPc="268435725"/>
+<entry endPc="268435800" name="view" stackId="2" startPc="268435725"/>
+<entry endPc="268435880" name="view" stackId="2" startPc="268435805"/>
+<entry endPc="268435880" name="steps" stackId="1" startPc="268435805"/>
+<entry endPc="268435924" name="state" stackId="1" startPc="268435919"/>
+<entry endPc="268435929" name="state" stackId="1" startPc="268435924"/>
+<entry endPc="268436782" name="rez_cmp_local_bitmap_TimeLabel" stackId="4" startPc="268435983"/>
+<entry endPc="268436782" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="5" startPc="268435983"/>
+<entry endPc="268436782" name="rez_cmp_local_bitmap_StepsLabel" stackId="6" startPc="268435983"/>
+<entry endPc="268436782" name="rez_cmp_local_bitmap_StepsLabel_fontHeight" stackId="7" startPc="268435983"/>
+<entry endPc="268436782" name="rez_cmp_local_bitmap_AltitudeLabel_fontHeight" stackId="3" startPc="268435983"/>
+<entry endPc="268436782" name="rez_cmp_local_bitmap_AltitudeLabel" stackId="2" startPc="268435983"/>
+<entry endPc="268436783" name="dc" stackId="1" startPc="268435971"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="MyWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="MyWatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MyWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MyWatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setTime" parent="MyWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setAltitude" parent="MyWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setSteps" parent="MyWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MyWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="MyWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="MyWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MyWatchFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="MyWatchFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="MyWatchFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="MyWatchFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="284" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="346" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="377" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="416" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="455" parentId="globals" symbolId="MyWatchFaceApp" type="class"/>
+<dataEntry offset="526" parentId="globals" symbolId="MyWatchFaceView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
